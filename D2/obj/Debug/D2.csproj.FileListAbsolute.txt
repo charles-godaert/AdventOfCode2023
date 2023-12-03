@@ -1,0 +1,8 @@
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D2\bin\Debug\D2.exe.config
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D2\bin\Debug\D2.exe
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D2\bin\Debug\D2.pdb
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D2\obj\Debug\D2.csproj.AssemblyReference.cache
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D2\obj\Debug\D2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D2\obj\Debug\D2.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D2\obj\Debug\D2.exe
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D2\obj\Debug\D2.pdb
