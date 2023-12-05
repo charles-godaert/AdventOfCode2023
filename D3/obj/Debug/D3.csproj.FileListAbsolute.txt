@@ -1,0 +1,8 @@
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D3\bin\Debug\D3.exe.config
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D3\bin\Debug\D3.exe
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D3\bin\Debug\D3.pdb
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D3\obj\Debug\D3.csproj.AssemblyReference.cache
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D3\obj\Debug\D3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D3\obj\Debug\D3.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D3\obj\Debug\D3.exe
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D3\obj\Debug\D3.pdb
