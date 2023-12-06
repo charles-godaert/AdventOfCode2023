@@ -1,0 +1,8 @@
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D5\bin\Debug\D5.exe.config
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D5\bin\Debug\D5.exe
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D5\bin\Debug\D5.pdb
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D5\obj\Debug\D5.csproj.AssemblyReference.cache
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D5\obj\Debug\D5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D5\obj\Debug\D5.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D5\obj\Debug\D5.exe
+C:\Users\Charles\Desktop\Projects\AdventOfCode2023\D5\obj\Debug\D5.pdb
